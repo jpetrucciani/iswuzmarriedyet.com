@@ -1,10 +1,11 @@
 {
   "person": "conlin",
-
   "aliases": [
-    "wuz"
+    "wuz",
+    "shnonlin",
+    "Mr. Conlin"
   ],
-  "status": "single",
-  "married": false,
-  "legally": "single"
+  "status": "married",
+  "married": true,
+  "legally": "married"
 }
